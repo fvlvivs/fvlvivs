@@ -1,4 +1,11 @@
-## Hi there 👋
+## Ciao!
+Just a robotics software engineer ...
+- with passion in control and motion planning 🚗
+- mainly programming in C++ with ROS2 🤖
+- on my way for learnig Rust 🦀
+
+  <img align="right" alt="Coding" width="400" src="![Mandelbrot_sequence_new-ezgif com-optimize](https://github.com/fvlvivs/fvlvivs/assets/112620880/343c4d95-b20c-4b7e-a5d2-ce9c5fabfe8a)">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvlvivs&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
